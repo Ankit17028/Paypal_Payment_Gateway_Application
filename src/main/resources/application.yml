@@ -1,0 +1,7 @@
+#spring.application.name=paypal-Integration
+paypal:
+  client-id: AREkUpxVkSpIhn_4HSvQDjFm6BR1XCbWsMACSV6gg4uQZVeznF3KyCKZh4XRn3CSz1IMccwJZvU9Ybm4
+  client-secret: EFLJir6nQHM5MufZB7eF_aGVZowxSA7AjhwUiE0My_fVWGCdXNoi9KqcF3rpor9JTqnQiLrhfuefNuRF
+  mode: sandbox # Use #sandbox' for testing and 'live' for Production
+
+
